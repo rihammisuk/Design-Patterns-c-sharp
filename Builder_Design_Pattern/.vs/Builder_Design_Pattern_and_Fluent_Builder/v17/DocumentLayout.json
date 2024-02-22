@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns\\Builder_Design_Pattern_and_Fluent_Builder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}|Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder.csproj|c:\\users\\bs530\\videos\\dotnet_tuts_and_projects\\learn\\design_patterns\\builder_design_pattern_and_fluent_builder\\builder_design_pattern_and_fluent_builder\\productstockreportdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}|Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder.csproj|solutionrelative:builder_design_pattern_and_fluent_builder\\productstockreportdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}|Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder.csproj|c:\\users\\bs530\\videos\\dotnet_tuts_and_projects\\learn\\design_patterns\\builder_design_pattern_and_fluent_builder\\builder_design_pattern_and_fluent_builder\\iproductstockreportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}|Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder.csproj|solutionrelative:builder_design_pattern_and_fluent_builder\\iproductstockreportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}|Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder.csproj|c:\\users\\bs530\\videos\\dotnet_tuts_and_projects\\learn\\design_patterns\\builder_design_pattern_and_fluent_builder\\builder_design_pattern_and_fluent_builder\\productstockreportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}|Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder.csproj|solutionrelative:builder_design_pattern_and_fluent_builder\\productstockreportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}|Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder.csproj|c:\\users\\bs530\\videos\\dotnet_tuts_and_projects\\learn\\design_patterns\\builder_design_pattern_and_fluent_builder\\builder_design_pattern_and_fluent_builder\\productstockreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}|Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder.csproj|solutionrelative:builder_design_pattern_and_fluent_builder\\productstockreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}|Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder.csproj|c:\\users\\bs530\\videos\\dotnet_tuts_and_projects\\learn\\design_patterns\\builder_design_pattern_and_fluent_builder\\builder_design_pattern_and_fluent_builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}|Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder.csproj|solutionrelative:builder_design_pattern_and_fluent_builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}|Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder.csproj|c:\\users\\bs530\\videos\\dotnet_tuts_and_projects\\learn\\design_patterns\\builder_design_pattern_and_fluent_builder\\builder_design_pattern_and_fluent_builder\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}|Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder.csproj|solutionrelative:builder_design_pattern_and_fluent_builder\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductStockReportDirector.cs",
+              "DocumentMoniker": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns\\Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder\\ProductStockReportDirector.cs",
+              "RelativeDocumentMoniker": "Builder_Design_Pattern_and_Fluent_Builder\\ProductStockReportDirector.cs",
+              "ToolTip": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns\\Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder\\ProductStockReportDirector.cs",
+              "RelativeToolTip": "Builder_Design_Pattern_and_Fluent_Builder\\ProductStockReportDirector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:22:00.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductStockReportBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns\\Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder\\ProductStockReportBuilder.cs",
+              "RelativeDocumentMoniker": "Builder_Design_Pattern_and_Fluent_Builder\\ProductStockReportBuilder.cs",
+              "ToolTip": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns\\Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder\\ProductStockReportBuilder.cs",
+              "RelativeToolTip": "Builder_Design_Pattern_and_Fluent_Builder\\ProductStockReportBuilder.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:02:21.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductStockReportBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns\\Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder\\IProductStockReportBuilder.cs",
+              "RelativeDocumentMoniker": "Builder_Design_Pattern_and_Fluent_Builder\\IProductStockReportBuilder.cs",
+              "ToolTip": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns\\Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder\\IProductStockReportBuilder.cs",
+              "RelativeToolTip": "Builder_Design_Pattern_and_Fluent_Builder\\IProductStockReportBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:59:52.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductStockReport.cs",
+              "DocumentMoniker": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns\\Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder\\ProductStockReport.cs",
+              "RelativeDocumentMoniker": "Builder_Design_Pattern_and_Fluent_Builder\\ProductStockReport.cs",
+              "ToolTip": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns\\Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder\\ProductStockReport.cs",
+              "RelativeToolTip": "Builder_Design_Pattern_and_Fluent_Builder\\ProductStockReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:57:45.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns\\Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder\\Product.cs",
+              "RelativeDocumentMoniker": "Builder_Design_Pattern_and_Fluent_Builder\\Product.cs",
+              "ToolTip": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns\\Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder\\Product.cs",
+              "RelativeToolTip": "Builder_Design_Pattern_and_Fluent_Builder\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:56:40.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns\\Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder_Design_Pattern_and_Fluent_Builder\\Program.cs",
+              "ToolTip": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns\\Builder_Design_Pattern_and_Fluent_Builder\\Builder_Design_Pattern_and_Fluent_Builder\\Program.cs",
+              "RelativeToolTip": "Builder_Design_Pattern_and_Fluent_Builder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:55:56.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

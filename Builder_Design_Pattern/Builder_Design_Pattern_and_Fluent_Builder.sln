@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder_Design_Pattern_and_Fluent_Builder", "Builder_Design_Pattern_and_Fluent_Builder\Builder_Design_Pattern_and_Fluent_Builder.csproj", "{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAD560B-579B-4EDE-BF2B-6DAEF4B6E1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96AA48A6-B0F9-43A0-A695-3A2E5B20DFC9}
+	EndGlobalSection
+EndGlobal
