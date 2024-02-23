@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|c:\\users\\bs530\\videos\\dotnet_tuts_and_projects\\learn\\design_patterns_c_sharp\\f_b_interface_with_recursive_generics\\f_b_interface_with_recursive_generics\\employeesalarybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|solutionrelative:f_b_interface_with_recursive_generics\\employeesalarybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|c:\\users\\bs530\\videos\\dotnet_tuts_and_projects\\learn\\design_patterns_c_sharp\\f_b_interface_with_recursive_generics\\f_b_interface_with_recursive_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|solutionrelative:f_b_interface_with_recursive_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|c:\\users\\bs530\\videos\\dotnet_tuts_and_projects\\learn\\design_patterns_c_sharp\\f_b_interface_with_recursive_generics\\f_b_interface_with_recursive_generics\\employeebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|solutionrelative:f_b_interface_with_recursive_generics\\employeebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|c:\\users\\bs530\\videos\\dotnet_tuts_and_projects\\learn\\design_patterns_c_sharp\\f_b_interface_with_recursive_generics\\f_b_interface_with_recursive_generics\\employeeinfobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|solutionrelative:f_b_interface_with_recursive_generics\\employeeinfobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|c:\\users\\bs530\\videos\\dotnet_tuts_and_projects\\learn\\design_patterns_c_sharp\\f_b_interface_with_recursive_generics\\f_b_interface_with_recursive_generics\\employeebuilderdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|solutionrelative:f_b_interface_with_recursive_generics\\employeebuilderdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|c:\\users\\bs530\\videos\\dotnet_tuts_and_projects\\learn\\design_patterns_c_sharp\\f_b_interface_with_recursive_generics\\f_b_interface_with_recursive_generics\\employeepositionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|solutionrelative:f_b_interface_with_recursive_generics\\employeepositionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|c:\\users\\bs530\\videos\\dotnet_tuts_and_projects\\learn\\design_patterns_c_sharp\\f_b_interface_with_recursive_generics\\f_b_interface_with_recursive_generics\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA34FEF5-3780-4E01-9ECF-73046BCC61CE}|F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics.csproj|solutionrelative:f_b_interface_with_recursive_generics\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeBuilderDirector.cs",
+              "DocumentMoniker": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\EmployeeBuilderDirector.cs",
+              "RelativeDocumentMoniker": "F_B_Interface_With_Recursive_Generics\\EmployeeBuilderDirector.cs",
+              "ToolTip": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\EmployeeBuilderDirector.cs",
+              "RelativeToolTip": "F_B_Interface_With_Recursive_Generics\\EmployeeBuilderDirector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:11:36.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeSalaryBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\EmployeeSalaryBuilder.cs",
+              "RelativeDocumentMoniker": "F_B_Interface_With_Recursive_Generics\\EmployeeSalaryBuilder.cs",
+              "ToolTip": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\EmployeeSalaryBuilder.cs",
+              "RelativeToolTip": "F_B_Interface_With_Recursive_Generics\\EmployeeSalaryBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:10:49.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\EmployeeBuilder.cs",
+              "RelativeDocumentMoniker": "F_B_Interface_With_Recursive_Generics\\EmployeeBuilder.cs",
+              "ToolTip": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\EmployeeBuilder.cs",
+              "RelativeToolTip": "F_B_Interface_With_Recursive_Generics\\EmployeeBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:05:56.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeePositionBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\EmployeePositionBuilder.cs",
+              "RelativeDocumentMoniker": "F_B_Interface_With_Recursive_Generics\\EmployeePositionBuilder.cs",
+              "ToolTip": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\EmployeePositionBuilder.cs",
+              "RelativeToolTip": "F_B_Interface_With_Recursive_Generics\\EmployeePositionBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:02:32.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeInfoBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\EmployeeInfoBuilder.cs",
+              "RelativeDocumentMoniker": "F_B_Interface_With_Recursive_Generics\\EmployeeInfoBuilder.cs",
+              "ToolTip": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\EmployeeInfoBuilder.cs",
+              "RelativeToolTip": "F_B_Interface_With_Recursive_Generics\\EmployeeInfoBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:00:30.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\Employee.cs",
+              "RelativeDocumentMoniker": "F_B_Interface_With_Recursive_Generics\\Employee.cs",
+              "ToolTip": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\Employee.cs",
+              "RelativeToolTip": "F_B_Interface_With_Recursive_Generics\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:55:10.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\Program.cs",
+              "RelativeDocumentMoniker": "F_B_Interface_With_Recursive_Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\BS530\\Videos\\DotNet_Tuts_and_Projects\\Learn\\Design_Patterns_c_sharp\\F_B_Interface_With_Recursive_Generics\\F_B_Interface_With_Recursive_Generics\\Program.cs",
+              "RelativeToolTip": "F_B_Interface_With_Recursive_Generics\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:54:57.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
